@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://filesizeconverter.doodax.com"><strong>🚀 LIVE DEMO: filesizeconverter.doodax.com</strong></a>
+    <a href="https://filesizeconverter.doodax.com" target="_blank" rel="noopener noreferrer"><strong>🚀 LIVE DEMO: filesizeconverter.doodax.com</strong></a>
   </p>
 
   <p>
@@ -37,14 +37,14 @@
 - [Features](#-features)
 - [Installation](#-installation)
 - [Technologies](#-technologies)
-- [SEO & Performance](#-seo--performance)
+- [SEO & Compliance](#-seo--compliance)
 - [Live Demo](#-live-demo)
 
 ## 🔭 Introduction
 
-**File Size Converter** is more than just a calculator; it is an educational tool designed for developers, system administrators, and tech enthusiasts. It resolves the decades-old confusion between how storage manufacturers define a "Gigabyte" versus how operating systems like Windows define it.
+**File Size Converter** is more than just a calculator; it is an educational ecosystem designed for developers, system administrators, and tech enthusiasts. It resolves the decades-old confusion between how storage manufacturers define a "Gigabyte" versus how operating systems like Windows define it.
 
-With a focus on **User Experience (UX)**, the application features a custom-built, performance-optimized galaxy animation system, glassmorphism UI design, and instant reactive conversions.
+With a focus on **User Experience (UX)**, the application features a custom-built, performance-optimized galaxy animation system, glassmorphism UI design, and instant reactive conversions. It includes a comprehensive 3,500+ word technical guide and full legal compliance frameworks.
 
 ## 💡 The Technical Problem
 
@@ -62,7 +62,8 @@ This tool allows users to toggle between these standards instantly to understand
 -   **Dual Standard Conversion:** Toggle between Metric (1000) and Binary (1024) instantly.
 -   **High Precision:** Accurate to the byte level with breakdown for bits.
 -   **Immersive UI:** A custom CSS/JS hybrid galaxy background that is visually stunning yet lightweight.
--   **SEO Optimized:** Fully semantic HTML5, JSON-LD Schema markup, and Open Graph tags.
+-   **SEO Powerhouse:** Includes a semantic, schema-rich 3500-word technical article for search dominance.
+-   **Legal Compliance:** Built-in modals for Privacy Policy, Terms of Service, DMCA, and Contact handling.
 -   **Mobile First:** Responsive design that works perfectly on all devices.
 -   **Privacy Focused:** 100% Client-side execution. No data leaves your browser.
 
@@ -92,14 +93,16 @@ To run this project locally:
 *   **Core:** React 19, TypeScript
 *   **Styling:** Tailwind CSS, Custom CSS Animations
 *   **Tooling:** Vite, PostCSS
+*   **Structure:** Modular Component Architecture
 *   **Deployment:** Vercel / Netlify ready
 
-## 🌐 SEO & Performance
+## 🌐 SEO & Compliance
 
-The project is engineered for high visibility:
-*   **Dynamic Metadata:** Custom titles and descriptions.
-*   **Structured Data:** Full JSON-LD implementation for "SoftwareApplication" and "Article".
+The project is engineered for high visibility and professional standards:
+*   **Dynamic Metadata:** Custom titles and descriptions for maximum CTR.
+*   **Structured Data:** Full JSON-LD implementation for "SoftwareApplication", "Article", and "FAQPage".
 *   **Robots & Sitemap:** Fully configured for search engine indexing.
+*   **Policy Pages:** Integrated modal systems for Privacy, Terms, and DMCA to meet ad network and search engine requirements.
 
 ## 🔗 Live Demo
 
@@ -109,5 +112,5 @@ Check out the live application here:
 ---
 
 <div align="center">
-  <sub>Designed and Developed by <strong>HSINI MOHAMED</strong></sub>
+  <sub>Designed and Developed by <a href="https://github.com/hsinidev"><strong>HSINI MOHAMED</strong></a></sub>
 </div>
