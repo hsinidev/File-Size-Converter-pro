@@ -1,0 +1,5 @@
+{
+  "name": "File Size Converter",
+  "description": "A modern, multi-file ReactJS application for a File Size Converter. The tool instantly converts numeric values between all major file size units (e.g., Bytes, KB, MB, GB, TB, PB), relying entirely on Pure JavaScript/Math functions and standardized conversion constants.",
+  "requestFramePermissions": []
+}

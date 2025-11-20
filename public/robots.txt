@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://filesizeconverter.doodax.com/sitemap.xml
