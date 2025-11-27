@@ -9,7 +9,7 @@
   </p>
 
   <p>
-    <a href="https://filesizeconverter.doodax.com" target="_blank" rel="noopener noreferrer"><strong>🚀 LIVE DEMO: filesizeconverter.doodax.com</strong></a>
+    <a href="https://doodax.com/tools/binary-converter/index.html" target="_blank" rel="noopener noreferrer"><strong>🚀 LIVE DEMO:doodax.com</strong></a>
   </p>
 
   <p>
